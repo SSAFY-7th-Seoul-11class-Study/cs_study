@@ -20,4 +20,4 @@
 - ** 인덱스,트랜젝션,정규화 ** 7/7(목)
 - ** DB - SQL Injection / SQL vs NoSQL  ** 7/ 15(금)
 - ** DB 부분만 ** 7/22(금) 
-- ** OSI 7 layers ** 7/29(금)
+- ** OSI 7 layers / ** 7/29(금)
